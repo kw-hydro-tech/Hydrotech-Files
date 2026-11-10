@@ -1,3 +1,5 @@
+===== HYDRO-TECH =====
+
 <a href="https://kw-hydro-tech.github.io/Hydrotech-Files/packages/diamond.html">View Diamond Package</a>
 
 <a href="https://kw-hydro-tech.github.io/Hydrotech-Files/packages/platinum.html">View Platinum Package</a>
@@ -5,3 +7,14 @@
 <a href="https://kw-hydro-tech.github.io/Hydrotech-Files/packages/gold.html">View Gold Package</a>
 
 <a href="https://kw-hydro-tech.github.io/Hydrotech-Files/packages/">View All Packages</a>
+
+
+===== PRO OUTDOOR =====
+
+<a href="https://kw-hydro-tech.github.io/Hydrotech-Files/pro-outdoor/diamond.html">View Diamond Package</a>
+
+<a href="https://kw-hydro-tech.github.io/Hydrotech-Files/pro-outdoor/platinum.html">View Platinum Package</a>
+
+<a href="https://kw-hydro-tech.github.io/Hydrotech-Files/pro-outdoor/gold.html">View Gold Package</a>
+
+<a href="https://kw-hydro-tech.github.io/Hydrotech-Files/pro-outdoor/">View All Packages</a>
